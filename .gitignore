@@ -1,0 +1,9 @@
+*.mat
+*.txt
+*.csv
+
+.vscode/
+
+*.pyc
+__pycache__/
+
